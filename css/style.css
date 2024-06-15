@@ -1,0 +1,90 @@
+body{
+    background-color: #fff;
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+ul, ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color:#434455;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    text-align: center;
+    color: #fff;
+}
+
+h2{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2e2f42;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
+}
+
+.logo .web {
+    color:#4d5ae5;
+}
+
+nav ul li{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2e2f42;
+}
+
+.main-screen button{
+    background-color: #4D5AE5;
+    color: #fff;
+    cursor: pointer;
+}
+
+.our-team {
+        text-align: center;
+}
+
+footer p{
+        color: #f4f4fd;
+}
+
+button:hover, button:focus {
+    background-color:#404BBF;
+}
+
+header a:hover, header a:focus{
+    color: #404BBF;
+}
