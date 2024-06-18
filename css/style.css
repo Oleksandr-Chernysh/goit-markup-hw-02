@@ -1,6 +1,6 @@
 body{
     background-color: #fff;
-    font-family: "Roboto", 'Helvetica Neue', 'Verdana', sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -77,6 +77,21 @@ nav ul li{
     color: #2e2f42;
 }
 
+.main-screen{
+    background-color:#2e2f42;
+}
+
+.firsthead{
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+}
+
+.firstbutton{
+    font-family: "Roboto", sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+
 .main-screen button{
     background-color: #4D5AE5;
     color: #fff;
@@ -85,6 +100,22 @@ nav ul li{
 
 .our-team {
         text-align: center;
+        background-color: #F4F4FD;
+}
+
+.our-h2{
+    line-height: 1.11;
+    text-transform: capitalize;
+}
+
+.our-text{
+    font-size: 16px;
+}
+
+.portfolio-h2{
+    line-height: 1.11;
+    text-transform: capitalize;
+    
 }
 
 footer p{
