@@ -89,3 +89,7 @@ button:hover, button:focus {
 header a:hover, header a:focus{
     color: #404BBF;
 }
+
+.footer {
+    background-color: #2e2f42;
+}
