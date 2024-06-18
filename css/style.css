@@ -58,7 +58,16 @@ p {
 }
 
 .logo .web {
-    color:#4d5ae5;
+    color:#2e2f42;
+    line-height: 1.17;
+}
+
+.idontknow{
+    color:#2e2f42;
+}
+
+.adres{
+    font-style: normal;
 }
 
 nav ul li{
