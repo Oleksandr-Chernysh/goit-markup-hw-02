@@ -139,7 +139,7 @@ button:hover, button:focus {
     background-color:#404BBF;
 }
 
-.idontknow, .adrli:hover, .idontknow, .adrli:focus{
+.idontknow:hover, .adrli:hover, .idontknow:focus, .adrli:focus{
     color: #404BBF;
 }
 
