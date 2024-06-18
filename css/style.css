@@ -131,7 +131,7 @@ button:hover, button:focus {
     background-color:#404BBF;
 }
 
-header a:hover, header a:focus{
+header .adrli:hover, header .adrli:focus{
     color: #404BBF;
 }
 
