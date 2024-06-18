@@ -96,6 +96,7 @@ nav ul li{
     background-color: #4D5AE5;
     color: #fff;
     cursor: pointer;
+    font-weight: 500;
 }
 
 .our-team {
@@ -103,7 +104,7 @@ nav ul li{
         background-color: #F4F4FD;
 }
 
-.our-h2{
+.ourh{
     line-height: 1.11;
     text-transform: capitalize;
 }
@@ -112,10 +113,14 @@ nav ul li{
     font-size: 16px;
 }
 
+.our-first{
+    background-color: #FFFFFF;
+}
+
 .portfolio-h2{
     line-height: 1.11;
     text-transform: capitalize;
-    
+
 }
 
 footer p{
@@ -132,4 +137,8 @@ header a:hover, header a:focus{
 
 .footer {
     background-color: #2e2f42;
+}
+
+.footer .web{
+    color:#f4f4fd;
 }
